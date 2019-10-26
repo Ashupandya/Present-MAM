@@ -1,0 +1,6 @@
+# for (x,y,w,h) in faces_detected:
+#     cv2.rectangle(test_img,(x,y),(x+w,y+h),(255,0,0),thickness=5)
+
+#faces,faceID = fd.labels_for_training_data('C:\\Users\\Ashutosh\\Documents\\PycharmProjects\\training_images_Major')
+# face_recognizer = fd.train_classifier(faces,faceID)
+# face_recognizer.save('training_Data.yml')
