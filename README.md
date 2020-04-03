@@ -8,4 +8,7 @@ Tester.py -- This is the main file which Trains the model and also calls the fac
 
 face_detection.py -- This file detects the faces in the test image.
 
+xlwriter.py -- This file is called by the tester.py to save the entry of students detected into an excel sheet which is named after the                    teacher whose name was taken as input at the starting.
 
+Functionality in Brief :-
+          
